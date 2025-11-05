@@ -2,8 +2,8 @@
 <h3 align="center">AI Architect & Data Science Innovator 🚀</h3>
 
 <p align="center">
- <a href="mailto:priteshraj41@gmail.com"><img src="https://img.shields.io/badge/Email-priteshraj41%40gmail.com-blue?style=flat-square&logo=gmail" /></a>
- <a href="https://www.linkedin.com/in/priteshraj/"><img src="https://img.shields.io/badge/LinkedIn-Pritesh_Raj-blue?style=flat-square&logo=linkedin" /></a>
+ <a href="mailto:engg.anjaligupta@gmail.com"><img src="https://img.shields.io/badge/Email-engg.anjaligupta%40gmail.com-blue?style=flat-square&logo=gmail" /></a>
+ <a href="https://www.linkedin.com/in/anjaligupta0502/"><img src="https://img.shields.io/badge/LinkedIn-Anjali_Gupta-blue?style=flat-square&logo=linkedin" /></a>
 </p>
 
 ## 🚀 About Me

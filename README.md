@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! I'm Anjali Gupta 👋</h1>
-<h3 align="center">AI Architect & Data Science Innovator 🚀</h3>
+<h3 align="center">Business Analyst || Business Intelligence Analyst 🚀</h3>
 
 <p align="center">
  <a href="mailto:engg.anjaligupta@gmail.com"><img src="https://img.shields.io/badge/Email-engg.anjaligupta%40gmail.com-blue?style=flat-square&logo=gmail" /></a>
@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Data Scientist** and **AI Developer** from **India**, on a mission to leverage technology for human advancement. Think of me as an **AI architect** who builds bridges between complex algorithms and real-world solutions.
+I'm a passionate **Stakeholder Management** and **Gathering Business Requirements** from **World**, on a mission to deliver the best of us. Think of me as a **Business Analyst** who builds bridges between Business and real heros building the platform for any business in the market(Developers/ Engineers).
 
 ## 💡 What Drives Me
 

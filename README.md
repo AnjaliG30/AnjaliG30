@@ -12,10 +12,12 @@ I'm a passionate **Stakeholder Management** and **Gathering Business Requirement
 
 ## 💡 What Drives Me
 
-- Building AI solutions that make a real difference
-- Creating user-friendly interfaces for complex systems
-- Contributing to open-source and community-driven projects
-- Turning innovative ideas into scalable solutions
+- Motivation to align business objectives with technical solutions
+- Passion for designing and recommending practical, value-driven solutions
+- Strong interest in stakeholder engagement and relationship management
+- Commitment to ensuring stakeholder satisfaction and ROI
+- Analytical thinking and persistence to find root causes
+- Focused on translating data into strategic business actions
 
 ## 🛠️ Tech Stack
 

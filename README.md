@@ -22,7 +22,7 @@ I'm a passionate **Stakeholder Management** and **Gathering Business Requirement
 ## 🛠️ Tech Stack
 
 ### BusinessAnalysis
-![RACI Matrix](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![RACI Matrix](https://img.shields.io/badge/RACI Matrix-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![INVEST Principle](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![SWOT](https://img.shields.io/badge/LangChain-005571?style=flat)
 
@@ -46,10 +46,11 @@ I'm a passionate **Stakeholder Management** and **Gathering Business Requirement
 
 ## 🌱 Current Focus
 
-- 🚀 Exploring cutting-edge Large Language Models
-- 🛠️ Building scalable AI solutions for real-world impact
-- 📢 Contributing to open-source AI projects
-- 🎓 Mentoring aspiring data scientists & AI developers
+- 🚀 Shift from just gathering requirements to delivering measurable business value
+- 🛠️ Collaborate with IT and data teams to enable smarter, faster, data-driven operations
+- 📢 Use tools like Power BI, Tableau, SQL, or Excel analytics
+- 🎓 Focus on customer experience (CX) and user journey mapping
+- Adopt a continuous delivery mindset delivering incremental value quickly
 
 ## 💬 Let's Connect!
 

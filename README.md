@@ -23,18 +23,18 @@ I'm a passionate **Stakeholder Management** and **Gathering Business Requirement
 
 ### BusinessAnalysis
 ![RACI Matrix](https://img.shields.io/badge/RACIMatrix-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![INVEST Principle](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![SWOT](https://img.shields.io/badge/LangChain-005571?style=flat)
+![INVEST Principle](https://img.shields.io/badge/INVEST-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![SWOT](https://img.shields.io/badge/SWOT-005571?style=flat)
 
 ### Requirement gathering
-![JAD](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![MoSCoW](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![JAD](https://img.shields.io/badge/JAD-150458?style=flat&logo=pandas&logoColor=white)
+![MoSCoW](https://img.shields.io/badge/MoSCoW-013243?style=flat&logo=numpy&logoColor=white)
 
 ### Languages
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
 ### Backend
-![SQL]
+![SQL](https://img.shields.io/badge/SQL-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)

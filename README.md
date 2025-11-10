@@ -22,7 +22,7 @@ I'm a passionate **Stakeholder Management** and **Gathering Business Requirement
 ## 🛠️ Tech Stack
 
 ### BusinessAnalysis
-![RACI Matrix](https://img.shields.io/badge/RACI Matrix-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![RACI Matrix](https://img.shields.io/badge/RACIMatrix-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![INVEST Principle](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![SWOT](https://img.shields.io/badge/LangChain-005571?style=flat)
 

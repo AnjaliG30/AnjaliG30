@@ -54,7 +54,7 @@ I'm a passionate **Stakeholder Management** and **Gathering Business Requirement
 
 ## 💬 Let's Connect!
 
-I'm always interested in collaborating on AI/ML projects, data science innovations, or breakthrough startup ideas. Let's connect and make something great together!
+I'm always interested in collaborating with Stakeholders, Gathering Requirements, or breakthrough innovative solution ideas. Let's connect and make something great together!
 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=AnjaliG30&show_icons=true&theme=dark" alt="GitHub Stats" />
